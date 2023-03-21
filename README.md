@@ -1,1 +1,1 @@
-# Clustering-Algorythms
+# Clustering-Algorithms
